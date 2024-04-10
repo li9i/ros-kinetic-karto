@@ -1,4 +1,4 @@
-The ROS kinetic SLAM package that produces the best maps of all in high resolutons.
+The ROS kinetic SLAM package that in high resolutons produces the best maps of all.
 
 Launch with
 
